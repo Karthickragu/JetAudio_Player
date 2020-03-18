@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="jetaudio.test.Regression">
+        <methods>
+          <include name="finishTestcase"/>
+          <include name="SetUp"/>
+          <include name="test_TC001"/>
+          <include name="startTestcase"/>
+          <include name="initPages"/>
+        </methods>
+      </class> <!-- jetaudio.test.Regression -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

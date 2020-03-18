@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="109391" started-at="2020-03-10T18:24:33 IST" finished-at="2020-03-10T18:26:22 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="109391" started-at="2020-03-10T18:24:33 IST" finished-at="2020-03-10T18:26:22 IST">
+      <class name="jetaudio.test.Regression">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:jetaudio.test.Regression@7f49f28a]" name="SetUp" is-config="true" duration-ms="17486" started-at="2020-03-10T18:24:16 IST" finished-at="2020-03-10T18:24:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="initPages()[pri:0, instance:jetaudio.test.Regression@7f49f28a]" name="initPages" is-config="true" duration-ms="539" started-at="2020-03-10T18:24:33 IST" finished-at="2020-03-10T18:24:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initPages -->
+        <test-method status="PASS" signature="startTestcase()[pri:0, instance:jetaudio.test.Regression@7f49f28a]" name="startTestcase" is-config="true" duration-ms="1025" started-at="2020-03-10T18:24:34 IST" finished-at="2020-03-10T18:24:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTestcase -->
+        <test-method status="PASS" signature="test_TC001()[pri:0, instance:jetaudio.test.Regression@7f49f28a]" name="test_TC001" duration-ms="107785" started-at="2020-03-10T18:24:35 IST" description="Search for Busses for the given routes and date" finished-at="2020-03-10T18:26:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_TC001 -->
+        <test-method status="PASS" signature="finishTestcase()[pri:0, instance:jetaudio.test.Regression@7f49f28a]" name="finishTestcase" is-config="true" duration-ms="0" started-at="2020-03-10T18:26:22 IST" finished-at="2020-03-10T18:26:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finishTestcase -->
+      </class> <!-- jetaudio.test.Regression -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
